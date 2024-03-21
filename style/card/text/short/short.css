@@ -1,0 +1,5 @@
+@media screen and (min-width: 768px) {
+    .card__text_short {
+        display: none;
+    }
+}

@@ -1,0 +1,7 @@
+@import url(menu/menu.css);
+@import url(title-nav/title-nav.css);
+@import url(title-with-highlight/title-with-highlight.css);
+@import url(navigation/navigation.css);
+.main{
+    background-color: #F8F8F8;
+}

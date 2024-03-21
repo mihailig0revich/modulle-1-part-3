@@ -1,0 +1,8 @@
+@import url(nav-btn/nav-btn.css);
+@import url(stick/stick.css);
+@import url(hide-btns/hide-btns.css);
+.right-menu{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}

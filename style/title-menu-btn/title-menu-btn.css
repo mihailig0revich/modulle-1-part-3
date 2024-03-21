@@ -1,0 +1,6 @@
+@import url(text/text.css);
+.title-menu-btn{
+    display: flex;
+    justify-self: end;
+    align-items: center;
+}

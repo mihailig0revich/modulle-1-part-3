@@ -1,0 +1,10 @@
+@import url(long/long.css);
+@import url(middle/middle.css);
+@import url(short/short.css);
+.card__text{
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+    margin-bottom: 16px;
+    white-space: pre-line;
+}

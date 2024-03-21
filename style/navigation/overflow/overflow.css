@@ -1,0 +1,10 @@
+.navigation__overflow{
+    display: flex;
+    overflow-x: scroll;
+}
+@media screen and (min-width: 1120px) {
+    .navigation__overflow{
+        overflow-x: visible;
+        flex-wrap: wrap;
+    }
+}

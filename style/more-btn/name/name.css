@@ -1,0 +1,8 @@
+.more-btn__name{
+    display: inline-block;
+    margin: 0;
+    line-height: 24px;
+    font-size: 16px;
+    flood-color: #1B1C21;
+    font-weight: 500;
+}

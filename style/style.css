@@ -1,0 +1,30 @@
+@import url(./wrapper/wrapper.css);
+@import url(./header/header.css);
+@import url(./left-menu/left-menu.css);
+@import url(./right-menu/right-menu.css);
+@import url(./main/main.css);
+@import url(./title-menu-btn/title-menu-btn.css);
+@import url(./title-with-highlight/title-with-highlight.css);
+@import url(./navigation/navigation.css);
+@import url(./card/card.css);
+@import url(./nav-btn/nav-btn.css);
+@import url(./info-btn/info-btn.css);
+@import url(./more-btn/more-btn.css);
+@import url(./logo/logo.css);
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'TT Lakes';
+    font-size: 14px;
+    line-height: 18px;
+    background-color: #F8F8F8;
+}
+
+*, ::after, ::before{
+    box-sizing: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+

@@ -1,0 +1,10 @@
+.main__menu{
+    display: none;
+    justify-self: end;
+    align-items: center;
+}
+@media screen and (min-width: 1120px) {
+    .main__menu{
+        display: flex;
+    }
+}

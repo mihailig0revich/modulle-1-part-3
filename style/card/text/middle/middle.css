@@ -1,0 +1,15 @@
+.card__text_middle {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    .card__text_middle {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 1120px) {
+    .card__text_middle {
+        display: none;
+    }
+}

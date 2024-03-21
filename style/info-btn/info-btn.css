@@ -1,0 +1,19 @@
+@import url(active/active.css);
+.info-btn{
+    height: 40px;
+    padding: 0 11px;
+    color: #7E7E82;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    background-color:  rgba(28,28,28,0);
+    border: 2px solid rgba(28,28,28,0);
+    border: 0px;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+@media screen and (min-width: 1120px) {
+    .info-btn{
+        padding: 0 22px;
+    }
+}
